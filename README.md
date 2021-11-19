@@ -13,7 +13,7 @@
     <img src=https://img.shields.io/website?logo=openstreetmap&down_color=lightgrey&down_message=Offline&label=behr.dev&up_message=Online&url=http%3A%2F%2Fbehr.dev>
   </a>
   <!--- Discord Activity ---->
-  <a href=https://discord.gg/MjXemPr>
+  <a href=https://discord.gg/mpxGDSJkkW>
     <img src=https://img.shields.io/discord/481711026962694146?logo=discord>
   </a>
   <!--- Commit Activity ---->
