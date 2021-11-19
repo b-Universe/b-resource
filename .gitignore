@@ -25,3 +25,4 @@ assets/minecraft/models/item/*
 # ██ [ Whitelist Minecraft overrides ] ██
 !assets/minecraft/models/item/cookie.json
 !assets/minecraft/models/item/potion.json
+!assets/minecraft/models/item/blaze_rod.json
