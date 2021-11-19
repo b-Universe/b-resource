@@ -1,0 +1,6 @@
+{
+  "parent": "block/custom/furniture/chairs/cozy_love_seat/base",
+  "textures": {
+    "1": "block/white_wool"
+  }
+}

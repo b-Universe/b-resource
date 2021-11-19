@@ -1,0 +1,6 @@
+{
+  "parent": "block/custom/furniture/chairs/cozy_chair/wool_top/base",
+  "textures": {
+    "0": "block/polished_diorite"
+  }
+}
