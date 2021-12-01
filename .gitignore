@@ -16,15 +16,24 @@ assets/minecraft/textures/block/*
 !assets/minecraft/textures/block/custom/
 assets/minecraft/textures/item/*
 !assets/minecraft/textures/item/custom/
+!assets/minecraft/textures/entity/*
+!assets/minecraft/textures/gui/*
+!assets/minecraft/textures/misc/*
 
 assets/minecraft/models/block/*
 !assets/minecraft/models/block/custom/
 assets/minecraft/models/item/*
 !assets/minecraft/models/item/custom/
+assets/minecraft/models/item/*
+!assets/minecraft/models/entity/*
+!assets/minecraft/models/gui/*
+!assets/minecraft/models/misc/*
 
 # ██ [ Whitelist Minecraft overrides ] ██
+!assets/minecraft/models/item/barrier.json
 !assets/minecraft/models/item/cookie.json
 !assets/minecraft/models/item/blaze_rod.json
 !assets/minecraft/models/item/glass_bottle.json
 !assets/minecraft/models/item/leather_horse_armor.json
 !assets/minecraft/models/item/potion.json
+!assets/minecraft/models/item/stick.json

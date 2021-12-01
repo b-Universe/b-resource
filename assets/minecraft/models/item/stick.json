@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+      { "predicate": { "custom_model_data": 1}, "model": "item/custom/devices/accessories/handle" },
+      { "predicate": { "custom_model_data": 2}, "model": "item/custom/devices/accessories/iron_prong" },
+      { "predicate": { "custom_model_data": 3}, "model": "item/custom/devices/accessories/obsidian_coated_iron_prong" },
+
+      { "predicate": { "custom_model_data": 11}, "model": "item/custom/device_mounts/physical_property_device_mount" },
+      { "predicate": { "custom_model_data": 12}, "model": "item/custom/device_mounts/portal_device_mount" },
+      { "predicate": { "custom_model_data": 13}, "model": "item/custom/devices/weapons/chainsaw_missle" },
+      { "predicate": { "custom_model_data": 14}, "model": "item/custom/devices/accessories/energy_core_small" },
+
+      { "predicate": { "custom_model_data": 1000}, "model": "entity/custom/armor_stand/wooden_steve" },
+      { "predicate": { "custom_model_data": 1001}, "model": "entity/custom/armor_stand/wooden_steve_half" },
+      { "predicate": { "custom_model_data": 1002}, "model": "entity/custom/armor_stand/wooden_steve_half_partial" },
+      { "predicate": { "custom_model_data": 1003}, "model": "entity/custom/armor_stand/wooden_steve_head" }
+  ]
+}
