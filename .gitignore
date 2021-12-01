@@ -24,9 +24,12 @@ assets/minecraft/models/item/*
 
 # ██ [ Whitelist Minecraft overrides ] ██
 !assets/minecraft/models/item/barrier.json
-!assets/minecraft/models/item/cookie.json
+!assets/minecraft/models/item/black_stained_glass_pane.json
 !assets/minecraft/models/item/blaze_rod.json
+!assets/minecraft/models/item/carved_pumpkin.json
+!assets/minecraft/models/item/cookie.json
 !assets/minecraft/models/item/glass_bottle.json
 !assets/minecraft/models/item/leather_horse_armor.json
 !assets/minecraft/models/item/potion.json
 !assets/minecraft/models/item/stick.json
+!assets/minecraft/models/item/totem_of_undying.json

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "item/custom/spelunking_helmet" },
+    { "predicate": { "custom_model_data": 2}, "model": "item/custom/turkey" },
+    { "predicate": { "custom_model_data": 3}, "model": "item/custom/flying_turkey" }
+  ]
+}
