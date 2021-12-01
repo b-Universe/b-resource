@@ -16,18 +16,12 @@ assets/minecraft/textures/block/*
 !assets/minecraft/textures/block/custom/
 assets/minecraft/textures/item/*
 !assets/minecraft/textures/item/custom/
-!assets/minecraft/textures/entity/*
-!assets/minecraft/textures/gui/*
-!assets/minecraft/textures/misc/*
 
 assets/minecraft/models/block/*
 !assets/minecraft/models/block/custom/
 assets/minecraft/models/item/*
 !assets/minecraft/models/item/custom/
 assets/minecraft/models/item/*
-!assets/minecraft/models/entity/*
-!assets/minecraft/models/gui/*
-!assets/minecraft/models/misc/*
 
 # ██ [ Whitelist Minecraft overrides ] ██
 !assets/minecraft/models/item/barrier.json

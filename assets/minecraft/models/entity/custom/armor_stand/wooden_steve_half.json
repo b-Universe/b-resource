@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/wooden_steve/2021_06_21_oak-wood-carved-steve-18189163",
+		"0": "entity/custom/armor_stand/steve_skin",
 		"2": "block/spruce_planks",
-		"particle": "item/custom/wooden_steve/2021_06_21_oak-wood-carved-steve-18189163"
+		"particle": "block/spruce_planks"
 	},
 	"elements": [
 		{
