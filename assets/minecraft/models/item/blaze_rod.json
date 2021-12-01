@@ -5,7 +5,7 @@
   },
   "overrides": [
       { "predicate": { "custom_model_data": 1}, "model": "item/custom/b_wand" },
-      { "predicate": { "custom_model_data": 2}, "model": "item/custom/molten_iron" },
-      { "predicate": { "custom_model_data": 3}, "model": "item/custom/molten_obsidian" }
+      { "predicate": { "custom_model_data": 2}, "model": "block/custom/molten_iron" },
+      { "predicate": { "custom_model_data": 3}, "model": "block/custom/molten_obsidian" }
   ]
 }
