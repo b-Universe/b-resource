@@ -21,7 +21,6 @@ assets/minecraft/models/block/*
 !assets/minecraft/models/block/custom/
 assets/minecraft/models/item/*
 !assets/minecraft/models/item/custom/
-assets/minecraft/models/item/*
 
 # ██ [ Whitelist Minecraft overrides ] ██
 !assets/minecraft/models/item/barrier.json
