@@ -53,12 +53,12 @@
         {"predicate": {"custom_model_data": 3, "charged": 1},                "model": "item/custom/devices/weapons/physical_property_device"},
         {"predicate": {"custom_model_data": 3, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/physical_property_device"},
 
-        {"predicate": {"custom_model_data": 4},                              "model": "item/custom/device_with_tnt"},
-        {"predicate": {"custom_model_data": 4, "pulling": 1},                "model": "item/custom/device_with_tnt"},
-        {"predicate": {"custom_model_data": 4, "pulling": 1, "pull": 0.58},  "model": "item/custom/device_with_tnt"},
-        {"predicate": {"custom_model_data": 4, "pulling": 1, "pull": 1.0},   "model": "item/custom/device_with_tnt"},
-        {"predicate": {"custom_model_data": 4, "charged": 1},                "model": "item/custom/device_with_tnt"},
-        {"predicate": {"custom_model_data": 4, "charged": 1, "firework": 1}, "model": "item/custom/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4},                              "model": "item/custom/devices/weapons/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "pulling": 1},                "model": "item/custom/devices/weapons/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "charged": 1},                "model": "item/custom/devices/weapons/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/device_with_tnt"},
 
         {"predicate": {"custom_model_data": 5},                              "model": "item/custom/devices/weapons/device_with_fuel"},
         {"predicate": {"custom_model_data": 5, "pulling": 1},                "model": "item/custom/devices/weapons/device_with_fuel"},

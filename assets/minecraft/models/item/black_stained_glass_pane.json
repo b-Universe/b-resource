@@ -4,6 +4,6 @@
     "layer0": "minecraft:block/black_stained_glass"
   },
   "overrides": [
-      { "predicate": { "custom_model_data": 1}, "model": "item/custom/gui/blank" }
+      { "predicate": { "custom_model_data": 1}, "model": "gui/custom/container/blank" }
   ]
 }

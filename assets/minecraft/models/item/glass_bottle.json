@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/glass_bottle"
   },
   "overrides": [
-      { "predicate": { "custom_model_data": 1}, "model": "item/custom/empty_syringe" }
+      { "predicate": { "custom_model_data": 1}, "model": "item/custom/devices/empty_syringe" }
   ]
 }
