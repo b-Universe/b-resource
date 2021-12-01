@@ -1,0 +1,133 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {"predicate": {"pulling": 1},                "model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "pull": 0.58},  "model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 1.0},   "model": "item/crossbow_pulling_2"},
+        {"predicate": {"charged": 1},                "model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 1},                              "model": "item/custom/devices/weapons/physics_device"},
+        {"predicate": {"custom_model_data": 1, "pulling": 1},                "model": "item/custom/devices/weapons/physics_device"},
+        {"predicate": {"custom_model_data": 1, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/physics_device"},
+        {"predicate": {"custom_model_data": 1, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/physics_device"},
+        {"predicate": {"custom_model_data": 1, "charged": 1},                "model": "item/custom/devices/weapons/physics_device"},
+        {"predicate": {"custom_model_data": 1, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/physics_device"},
+
+        {"predicate": {"custom_model_data": 2},                              "model": "item/custom/devices/weapons/portal_device"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1},                "model": "item/custom/devices/weapons/portal_device"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/portal_device"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/portal_device"},
+        {"predicate": {"custom_model_data": 2, "charged": 1},                "model": "item/custom/devices/weapons/portal_device"},
+        {"predicate": {"custom_model_data": 2, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/portal_device"},
+
+        {"predicate": {"custom_model_data": 3},                              "model": "item/custom/devices/weapons/physical_property_device"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1},                "model": "item/custom/devices/weapons/physical_property_device"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/physical_property_device"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/physical_property_device"},
+        {"predicate": {"custom_model_data": 3, "charged": 1},                "model": "item/custom/devices/weapons/physical_property_device"},
+        {"predicate": {"custom_model_data": 3, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/physical_property_device"},
+
+        {"predicate": {"custom_model_data": 4},                              "model": "item/custom/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "pulling": 1},                "model": "item/custom/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "pulling": 1, "pull": 0.58},  "model": "item/custom/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "pulling": 1, "pull": 1.0},   "model": "item/custom/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "charged": 1},                "model": "item/custom/device_with_tnt"},
+        {"predicate": {"custom_model_data": 4, "charged": 1, "firework": 1}, "model": "item/custom/device_with_tnt"},
+
+        {"predicate": {"custom_model_data": 5},                              "model": "item/custom/devices/weapons/device_with_fuel"},
+        {"predicate": {"custom_model_data": 5, "pulling": 1},                "model": "item/custom/devices/weapons/device_with_fuel"},
+        {"predicate": {"custom_model_data": 5, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/device_with_fuel"},
+        {"predicate": {"custom_model_data": 5, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/device_with_fuel"},
+        {"predicate": {"custom_model_data": 5, "charged": 1},                "model": "item/custom/devices/weapons/device_with_fuel"},
+        {"predicate": {"custom_model_data": 5, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/device_with_fuel"},
+
+        {"predicate": {"custom_model_data": 6},                              "model": "item/custom/devices/weapons/buzzsaw_device_standby"},
+        {"predicate": {"custom_model_data": 6, "pulling": 1},                "model": "item/custom/devices/weapons/buzzsaw_device_standby"},
+        {"predicate": {"custom_model_data": 6, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/buzzsaw_device_standby"},
+        {"predicate": {"custom_model_data": 6, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/buzzsaw_device"},
+        {"predicate": {"custom_model_data": 6, "charged": 1},                "model": "item/custom/devices/weapons/buzzsaw_device"},
+        {"predicate": {"custom_model_data": 6, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/buzzsaw_device"},
+
+        {"predicate": {"custom_model_data": 7},                              "model": "item/custom/devices/weapons/beam_rifle"},
+        {"predicate": {"custom_model_data": 7, "pulling": 1},                "model": "item/custom/devices/weapons/beam_rifle"},
+        {"predicate": {"custom_model_data": 7, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/beam_rifle"},
+        {"predicate": {"custom_model_data": 7, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/beam_rifle"},
+        {"predicate": {"custom_model_data": 7, "charged": 1},                "model": "item/custom/devices/weapons/beam_rifle"},
+        {"predicate": {"custom_model_data": 7, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/beam_rifle"},
+
+        {"predicate": {"custom_model_data": 8},                              "model": "item/custom/devices/weapons/device_with_double_fuel"},
+        {"predicate": {"custom_model_data": 8, "pulling": 1},                "model": "item/custom/devices/weapons/device_with_double_fuel"},
+        {"predicate": {"custom_model_data": 8, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/device_with_double_fuel"},
+        {"predicate": {"custom_model_data": 8, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/device_with_double_fuel"},
+        {"predicate": {"custom_model_data": 8, "charged": 1},                "model": "item/custom/devices/weapons/device_with_double_fuel"},
+        {"predicate": {"custom_model_data": 8, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/device_with_double_fuel"},
+
+        {"predicate": {"custom_model_data": 9},                              "model": "item/custom/devices/weapons/device_with_double_tnt"},
+        {"predicate": {"custom_model_data": 9, "pulling": 1},                "model": "item/custom/devices/weapons/device_with_double_tnt"},
+        {"predicate": {"custom_model_data": 9, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/device_with_double_tnt"},
+        {"predicate": {"custom_model_data": 9, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/device_with_double_tnt"},
+        {"predicate": {"custom_model_data": 9, "charged": 1},                "model": "item/custom/devices/weapons/device_with_double_tnt"},
+        {"predicate": {"custom_model_data": 9, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/device_with_double_tnt"},
+
+        {"predicate": {"custom_model_data": 10},                              "model": "item/custom/devices/weapons/electric_device"},
+        {"predicate": {"custom_model_data": 10, "pulling": 1},                "model": "item/custom/devices/weapons/electric_device"},
+        {"predicate": {"custom_model_data": 10, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/electric_device"},
+        {"predicate": {"custom_model_data": 10, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/electric_device"},
+        {"predicate": {"custom_model_data": 10, "charged": 1},                "model": "item/custom/devices/weapons/electric_device"},
+        {"predicate": {"custom_model_data": 10, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/electric_device"},
+
+        {"predicate": {"custom_model_data": 11},                              "model": "item/custom/devices/weapons/copper_toothed_device"},
+        {"predicate": {"custom_model_data": 11, "pulling": 1},                "model": "item/custom/devices/weapons/copper_toothed_device"},
+        {"predicate": {"custom_model_data": 11, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/copper_toothed_device"},
+        {"predicate": {"custom_model_data": 11, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/copper_toothed_device"},
+        {"predicate": {"custom_model_data": 11, "charged": 1},                "model": "item/custom/devices/weapons/copper_toothed_device"},
+        {"predicate": {"custom_model_data": 11, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/copper_toothed_device"},
+
+        {"predicate": {"custom_model_data": 12},                              "model": "item/custom/devices/weapons/chain_turret"},
+        {"predicate": {"custom_model_data": 12, "pulling": 1},                "model": "item/custom/devices/weapons/chain_turret"},
+        {"predicate": {"custom_model_data": 12, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/weapons/chain_turret"},
+        {"predicate": {"custom_model_data": 12, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/weapons/chain_turret"},
+        {"predicate": {"custom_model_data": 12, "charged": 1},                "model": "item/custom/devices/weapons/chain_turret"},
+        {"predicate": {"custom_model_data": 12, "charged": 1, "firework": 1}, "model": "item/custom/devices/weapons/chain_turret"},
+
+        {"predicate": {"custom_model_data": 13},                              "model": "item/custom/devices/small_drill"},
+        {"predicate": {"custom_model_data": 13, "pulling": 1},                "model": "item/custom/devices/small_drill"},
+        {"predicate": {"custom_model_data": 13, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/small_drill"},
+        {"predicate": {"custom_model_data": 13, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/small_drill"},
+        {"predicate": {"custom_model_data": 13, "charged": 1},                "model": "item/custom/devices/small_drill"},
+        {"predicate": {"custom_model_data": 13, "charged": 1, "firework": 1}, "model": "item/custom/devices/small_drill"},
+
+        {"predicate": {"custom_model_data": 14},                              "model": "item/custom/devices/medium_drill"},
+        {"predicate": {"custom_model_data": 14, "pulling": 1},                "model": "item/custom/devices/medium_drill"},
+        {"predicate": {"custom_model_data": 14, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/medium_drill"},
+        {"predicate": {"custom_model_data": 14, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/medium_drill"},
+        {"predicate": {"custom_model_data": 14, "charged": 1},                "model": "item/custom/devices/medium_drill"},
+        {"predicate": {"custom_model_data": 14, "charged": 1, "firework": 1}, "model": "item/custom/devices/medium_drill"}
+    ]
+}
