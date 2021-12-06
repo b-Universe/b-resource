@@ -14,20 +14,18 @@
   </a>
   <!--- Discord Activity ---->
   <a href=https://discord.gg/mpxGDSJkkW>
-    <img src=https://img.shields.io/discord/481711026962694146?logo=discord>
+    <img src=https://img.shields.io/discord/901618453356630046?logo=discord>
   </a>
-  <!--- Commit Activity ---->
-  <a href=https://github.com/Adriftus-Studios/network-script-data/pulse>
-    <img src=https://img.shields.io/github/commit-activity/m/Adriftus-Studios/network-script-data?logo=read-the-docs>
+  <!--- Active Version ---->
+	<a href="https://github.com/bGielinor/b-resource/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Minecraft%20Version-1.17+-c70039?logo=blueprint" alt="Minecraft Version">
   </a>
 </p>
-
 <p align=center>
-	<!--- commit activity ---->
+	<!--- Commit Activity ---->
   <a href=https://github.com/Adriftus-Studios/network-script-data/pulse>
-    <img src=https://img.shields.io/github/commit-activity/m/Adriftus-Studios/network-script-data?logo=read-the-docs>
+    <img src=https://img.shields.io/github/commit-activity/m/bGielinor/b-resource?logo=read-the-docs>
   </a>
-	<!--- license ---->
+	<!--- License ---->
   <a href=https://unlicense.org>
     <img src=https://img.shields.io/badge/License-unlicense-lightgrey.svg>
   </a>
