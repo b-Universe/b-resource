@@ -1,9 +1,9 @@
 <p>
   <h1 align=center>
-    b-resource
+    <img src=https://media.discordapp.net/attachments/901618453356630052/977196070171975770/unknown.png?width=450&height=225>
   </h1>
 <p align=center>
-  Open source resource pack used with the Minecraft server "b"
+  Open source resource pack used with the Minecraft network "b"
 </p>
 
 
