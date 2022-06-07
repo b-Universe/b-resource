@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pufferfish"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "item/custom/fish/pufferfish/puffer_ace" },
+    { "predicate": { "custom_model_data": 2}, "model": "item/custom/fish/pufferfish/puffer_allah" },
+    { "predicate": { "custom_model_data": 3}, "model": "item/custom/fish/pufferfish/puffer_angie" },
+    { "predicate": { "custom_model_data": 4}, "model": "item/custom/fish/pufferfish/puffer_bi" },
+    { "predicate": { "custom_model_data": 5}, "model": "item/custom/fish/pufferfish/puffer_business" },
+    { "predicate": { "custom_model_data": 6}, "model": "item/custom/fish/pufferfish/puffer_confused" },
+    { "predicate": { "custom_model_data": 7}, "model": "item/custom/fish/pufferfish/puffer_cool" },
+    { "predicate": { "custom_model_data": 8}, "model": "item/custom/fish/pufferfish/puffer_crab" },
+    { "predicate": { "custom_model_data": 9}, "model": "item/custom/fish/pufferfish/puffer_cry" },
+    { "predicate": { "custom_model_data": 10}, "model": "item/custom/fish/pufferfish/puffer_excited" },
+    { "predicate": { "custom_model_data": 11}, "model": "item/custom/fish/pufferfish/puffer_halloween" },
+    { "predicate": { "custom_model_data": 12}, "model": "item/custom/fish/pufferfish/puffer_happ" },
+    { "predicate": { "custom_model_data": 13}, "model": "item/custom/fish/pufferfish/puffer_jazz" },
+    { "predicate": { "custom_model_data": 14}, "model": "item/custom/fish/pufferfish/puffer_lesbian" },
+    { "predicate": { "custom_model_data": 15}, "model": "item/custom/fish/pufferfish/puffer_long_pants" },
+    { "predicate": { "custom_model_data": 16}, "model": "item/custom/fish/pufferfish/puffer_love" },
+    { "predicate": { "custom_model_data": 17}, "model": "item/custom/fish/pufferfish/puffer_love_2" },
+    { "predicate": { "custom_model_data": 18}, "model": "item/custom/fish/pufferfish/puffer_melting" },
+    { "predicate": { "custom_model_data": 19}, "model": "item/custom/fish/pufferfish/puffer_pan" },
+    { "predicate": { "custom_model_data": 20}, "model": "item/custom/fish/pufferfish/puffer_party" },
+    { "predicate": { "custom_model_data": 21}, "model": "item/custom/fish/pufferfish/puffer_rainbow" },
+    { "predicate": { "custom_model_data": 22}, "model": "item/custom/fish/pufferfish/puffer_santa" },
+    { "predicate": { "custom_model_data": 23}, "model": "item/custom/fish/pufferfish/puffer_surprised" },
+    { "predicate": { "custom_model_data": 24}, "model": "item/custom/fish/pufferfish/puffer_sus" },
+    { "predicate": { "custom_model_data": 25}, "model": "item/custom/fish/pufferfish/puffer_trans" },
+    { "predicate": { "custom_model_data": 26}, "model": "item/custom/fish/pufferfish/puffer_warden" },
+    { "predicate": { "custom_model_data": 27}, "model": "item/custom/fish/pufferfish/puffer_wizard" }
+  ]
+}
