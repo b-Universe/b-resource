@@ -29,8 +29,22 @@ assets/minecraft/models/item/*
 !assets/minecraft/models/item/carved_pumpkin.json
 !assets/minecraft/models/item/cookie.json
 !assets/minecraft/models/item/crossbow.json
+!assets/minecraft/models/item/pufferfish.json
+
+# ██ [ for unplacable, consumable and consumed, tintable items ] ██
 !assets/minecraft/models/item/glass_bottle.json
+
+# ██ [ for unplacable, unstackable, tintable items             ] ██
 !assets/minecraft/models/item/leather_horse_armor.json
+
+# ██ [ for placable hard items ] ██
+!assets/minecraft/models/item/obsidian.json
+
+# ██ [ for unplacable, consumable, tintable items              ] ██
 !assets/minecraft/models/item/potion.json
+
+# ██ [ for unplacable, stackable items                         ] ██
 !assets/minecraft/models/item/stick.json
+
+# ██ [ for unplacable, unstackable items                       ] ██
 !assets/minecraft/models/item/totem_of_undying.json
