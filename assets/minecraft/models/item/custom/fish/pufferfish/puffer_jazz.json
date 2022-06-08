@@ -1,6 +1,13 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/custom/fish/pufferfish/puffer_jazz"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/custom/fish/pufferfish/puffer_jazz"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, 0, -17],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
 }
