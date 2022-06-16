@@ -90,8 +90,6 @@
     { "predicate": { "custom_model_data": 79}, "model": "block/custom/furniture/chairs/cozy_chair/wool_top/amethyst_block" },
     { "predicate": { "custom_model_data": 80}, "model": "block/custom/furniture/chairs/cozy_chair/wool_top/magma" },
 
-
-
     { "predicate": { "custom_model_data": 91}, "model": "block/custom/furniture/chairs/cozy_love_seat/wool_top/oak_planks" },
     { "predicate": { "custom_model_data": 92}, "model": "block/custom/furniture/chairs/cozy_love_seat/wool_top/spruce_planks" },
     { "predicate": { "custom_model_data": 93}, "model": "block/custom/furniture/chairs/cozy_love_seat/wool_top/birch_planks" },
@@ -171,8 +169,6 @@
     { "predicate": { "custom_model_data": 168}, "model": "block/custom/furniture/chairs/cozy_love_seat/wool_top/tuff" },
     { "predicate": { "custom_model_data": 169}, "model": "block/custom/furniture/chairs/cozy_love_seat/wool_top/amethyst_block" },
     { "predicate": { "custom_model_data": 170}, "model": "block/custom/furniture/chairs/cozy_love_seat/wool_top/magma" },
-
-
 
     { "predicate": { "custom_model_data": 181}, "model": "block/custom/furniture/chairs/cozy_sofa/wool_top/oak_planks" },
     { "predicate": { "custom_model_data": 182}, "model": "block/custom/furniture/chairs/cozy_sofa/wool_top/spruce_planks" },
@@ -254,7 +250,6 @@
     { "predicate": { "custom_model_data": 259}, "model": "block/custom/furniture/chairs/cozy_sofa/wool_top/amethyst_block" },
     { "predicate": { "custom_model_data": 260}, "model": "block/custom/furniture/chairs/cozy_sofa/wool_top/magma" },
 
-
     { "predicate": { "custom_model_data": 666001}, "model": "item/custom/halloween/morbid_horns" },
     { "predicate": { "custom_model_data": 666002}, "model": "item/custom/halloween/sinful_horns" },
     { "predicate": { "custom_model_data": 666003}, "model": "item/custom/halloween/texas_long_horns" },
@@ -264,10 +259,72 @@
     { "predicate": { "custom_model_data": 666007}, "model": "item/custom/halloween/vile_horns" },
     { "predicate": { "custom_model_data": 666008}, "model": "item/custom/halloween/war_horns" },
 
+    { "predicate": { "custom_model_data": 1000001}, "model": "item/custom/devices/wrench/redstone/iron/acasia" },
+    { "predicate": { "custom_model_data": 1000002}, "model": "item/custom/devices/wrench/redstone/iron/acasia_banded" },
+    { "predicate": { "custom_model_data": 1000003}, "model": "item/custom/devices/wrench/redstone/iron/birch" },
+    { "predicate": { "custom_model_data": 1000004}, "model": "item/custom/devices/wrench/redstone/iron/birch_banded" },
+    { "predicate": { "custom_model_data": 1000005}, "model": "item/custom/devices/wrench/redstone/iron/dark_oak" },
+    { "predicate": { "custom_model_data": 1000006}, "model": "item/custom/devices/wrench/redstone/iron/dark_oak_banded" },
+    { "predicate": { "custom_model_data": 1000007}, "model": "item/custom/devices/wrench/redstone/iron/jungle" },
+    { "predicate": { "custom_model_data": 1000008}, "model": "item/custom/devices/wrench/redstone/iron/jungle_banded" },
+    { "predicate": { "custom_model_data": 1000009}, "model": "item/custom/devices/wrench/redstone/iron/oak" },
+    { "predicate": { "custom_model_data": 1000010}, "model": "item/custom/devices/wrench/redstone/iron/oak_banded" },
+    { "predicate": { "custom_model_data": 1000011}, "model": "item/custom/devices/wrench/redstone/iron/spruce" },
+    { "predicate": { "custom_model_data": 1000012}, "model": "item/custom/devices/wrench/redstone/iron/spruce_banded" },
+
+    { "predicate": { "custom_model_data": 1000013}, "model": "item/custom/devices/wrench/redstone/copper/acasia" },
+    { "predicate": { "custom_model_data": 1000014}, "model": "item/custom/devices/wrench/redstone/copper/acasia_banded" },
+    { "predicate": { "custom_model_data": 1000015}, "model": "item/custom/devices/wrench/redstone/copper/birch" },
+    { "predicate": { "custom_model_data": 1000016}, "model": "item/custom/devices/wrench/redstone/copper/birch_banded" },
+    { "predicate": { "custom_model_data": 1000017}, "model": "item/custom/devices/wrench/redstone/copper/dark_oak" },
+    { "predicate": { "custom_model_data": 1000018}, "model": "item/custom/devices/wrench/redstone/copper/dark_oak_banded" },
+    { "predicate": { "custom_model_data": 1000019}, "model": "item/custom/devices/wrench/redstone/copper/jungle" },
+    { "predicate": { "custom_model_data": 1000020}, "model": "item/custom/devices/wrench/redstone/copper/jungle_banded" },
+    { "predicate": { "custom_model_data": 1000021}, "model": "item/custom/devices/wrench/redstone/copper/oak" },
+    { "predicate": { "custom_model_data": 1000022}, "model": "item/custom/devices/wrench/redstone/copper/oak_banded" },
+    { "predicate": { "custom_model_data": 1000023}, "model": "item/custom/devices/wrench/redstone/copper/spruce" },
+    { "predicate": { "custom_model_data": 1000024}, "model": "item/custom/devices/wrench/redstone/copper/spruce_banded" },
+
+    { "predicate": { "custom_model_data": 1000025}, "model": "item/custom/devices/wrench/redstone/gold/acasia" },
+    { "predicate": { "custom_model_data": 1000026}, "model": "item/custom/devices/wrench/redstone/gold/acasia_banded" },
+    { "predicate": { "custom_model_data": 1000027}, "model": "item/custom/devices/wrench/redstone/gold/birch" },
+    { "predicate": { "custom_model_data": 1000028}, "model": "item/custom/devices/wrench/redstone/gold/birch_banded" },
+    { "predicate": { "custom_model_data": 1000029}, "model": "item/custom/devices/wrench/redstone/gold/dark_oak" },
+    { "predicate": { "custom_model_data": 1000030}, "model": "item/custom/devices/wrench/redstone/gold/dark_oak_banded" },
+    { "predicate": { "custom_model_data": 1000031}, "model": "item/custom/devices/wrench/redstone/gold/jungle" },
+    { "predicate": { "custom_model_data": 1000032}, "model": "item/custom/devices/wrench/redstone/gold/jungle_banded" },
+    { "predicate": { "custom_model_data": 1000033}, "model": "item/custom/devices/wrench/redstone/gold/oak" },
+    { "predicate": { "custom_model_data": 1000034}, "model": "item/custom/devices/wrench/redstone/gold/oak_banded" },
+    { "predicate": { "custom_model_data": 1000035}, "model": "item/custom/devices/wrench/redstone/gold/spruce" },
+    { "predicate": { "custom_model_data": 1000036}, "model": "item/custom/devices/wrench/redstone/gold/spruce_banded" },
+
+    { "predicate": { "custom_model_data": 1000037}, "model": "item/custom/devices/wrench/redstone/diamond/acasia" },
+    { "predicate": { "custom_model_data": 1000038}, "model": "item/custom/devices/wrench/redstone/diamond/acasia_banded" },
+    { "predicate": { "custom_model_data": 1000039}, "model": "item/custom/devices/wrench/redstone/diamond/birch" },
+    { "predicate": { "custom_model_data": 1000040}, "model": "item/custom/devices/wrench/redstone/diamond/birch_banded" },
+    { "predicate": { "custom_model_data": 1000041}, "model": "item/custom/devices/wrench/redstone/diamond/dark_oak" },
+    { "predicate": { "custom_model_data": 1000042}, "model": "item/custom/devices/wrench/redstone/diamond/dark_oak_banded" },
+    { "predicate": { "custom_model_data": 1000043}, "model": "item/custom/devices/wrench/redstone/diamond/jungle" },
+    { "predicate": { "custom_model_data": 1000044}, "model": "item/custom/devices/wrench/redstone/diamond/jungle_banded" },
+    { "predicate": { "custom_model_data": 1000045}, "model": "item/custom/devices/wrench/redstone/diamond/oak" },
+    { "predicate": { "custom_model_data": 1000046}, "model": "item/custom/devices/wrench/redstone/diamond/oak_banded" },
+    { "predicate": { "custom_model_data": 1000047}, "model": "item/custom/devices/wrench/redstone/diamond/spruce" },
+    { "predicate": { "custom_model_data": 1000048}, "model": "item/custom/devices/wrench/redstone/diamond/spruce_banded" },
 
     { "predicate": { "custom_model_data": 1225001}, "model": "item/custom/christmas/christmas_mimic_bottom" },
-    { "predicate": { "custom_model_data": 1225002}, "model": "item/custom/christmas/christmas_mimic_top" }
+    { "predicate": { "custom_model_data": 1225002}, "model": "item/custom/christmas/christmas_mimic_top" },
 
+    { "predicate": { "custom_model_data": 1300001}, "model": "item/custom/devices/large_drill" },
+    { "predicate": { "custom_model_data": 1300002}, "model": "entity/custom/eggmobile" },
+    { "predicate": { "custom_model_data": 1300003}, "model": "entity/custom/coil" },
+    { "predicate": { "custom_model_data": 1300004}, "model": "entity/custom/turret/crossbow/test_base" },
+    { "predicate": { "custom_model_data": 1300005}, "model": "entity/custom/turret/crossbow/test_bow" },
+    { "predicate": { "custom_model_data": 1300006}, "model": "gui/custom/container/blank_test" },
+    { "predicate": { "custom_model_data": 1300007}, "model": "entity/custom/turret/crossbow/backup_full" },
+    { "predicate": { "custom_model_data": 1300008}, "model": "item/custom/devices/jump_pack_active" },
+
+    { "predicate": { "custom_model_data": 1300009}, "model": "misc/custom/west_test" },
+    { "predicate": { "custom_model_data": 1300010}, "model": "misc/custom/emoji_book/categories/people" }
 
   ]
 }

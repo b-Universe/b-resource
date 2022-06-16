@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/devices/wrench/redstone/wrench",
+	"textures": {
+		"2": "block/copper_block",
+		"particle": "block/copper_block"
+  }
+}

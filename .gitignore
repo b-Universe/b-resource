@@ -10,6 +10,7 @@
 # ██ [ Bloat external files          ] ██
 *.bbmodel
 *.psb
+*.psd
 
 # ██ [ Default Minecraft assets      ] ██
 assets/minecraft/textures/block/*
@@ -30,7 +31,6 @@ assets/minecraft/models/item/*
 !assets/minecraft/models/item/cookie.json
 !assets/minecraft/models/item/crossbow.json
 !assets/minecraft/models/item/pufferfish.json
-
 # ██ [ for unplacable, consumable and consumed, tintable items ] ██
 !assets/minecraft/models/item/glass_bottle.json
 

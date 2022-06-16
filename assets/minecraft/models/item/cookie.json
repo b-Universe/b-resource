@@ -4,21 +4,21 @@
     "layer0": "minecraft:item/cookie"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 122520211},  "model": "item/custom/christmas/cookies/axolotl" },
-    { "predicate": { "custom_model_data": 122520212},  "model": "item/custom/christmas/cookies/boat" },
-    { "predicate": { "custom_model_data": 122520213},  "model": "item/custom/christmas/cookies/chicken" },
-    { "predicate": { "custom_model_data": 122520214},  "model": "item/custom/christmas/cookies/christmas_tree" },
-    { "predicate": { "custom_model_data": 122520215},  "model": "item/custom/christmas/cookies/christmas_tree_decorated" },
-    { "predicate": { "custom_model_data": 122520216},  "model": "item/custom/christmas/cookies/corn" },
-    { "predicate": { "custom_model_data": 122520217},  "model": "item/custom/christmas/cookies/creeper" },
-    { "predicate": { "custom_model_data": 122520218},  "model": "item/custom/christmas/cookies/enderman" },
-    { "predicate": { "custom_model_data": 122520219},  "model": "item/custom/christmas/cookies/jeb_" },
-    { "predicate": { "custom_model_data": 1225202110}, "model": "item/custom/christmas/cookies/mergookie" },
-    { "predicate": { "custom_model_data": 1225202111}, "model": "item/custom/christmas/cookies/merguwukie" },
-    { "predicate": { "custom_model_data": 1225202112}, "model": "item/custom/christmas/cookies/pig" },
-    { "predicate": { "custom_model_data": 1225202113}, "model": "item/custom/christmas/cookies/sheep" },
-    { "predicate": { "custom_model_data": 1225202114}, "model": "item/custom/christmas/cookies/snowman" },
-    { "predicate": { "custom_model_data": 1225202115}, "model": "item/custom/christmas/cookies/tnt" },
-    { "predicate": { "custom_model_data": 1225202116}, "model": "item/custom/christmas/cookies/villager" }
+    { "predicate": { "custom_model_data": 20211},  "model": "item/custom/christmas/cookies/axolotl" },
+    { "predicate": { "custom_model_data": 20212},  "model": "item/custom/christmas/cookies/boat" },
+    { "predicate": { "custom_model_data": 20213},  "model": "item/custom/christmas/cookies/chicken" },
+    { "predicate": { "custom_model_data": 20214},  "model": "item/custom/christmas/cookies/christmas_tree" },
+    { "predicate": { "custom_model_data": 20215},  "model": "item/custom/christmas/cookies/christmas_tree_decorated" },
+    { "predicate": { "custom_model_data": 20216},  "model": "item/custom/christmas/cookies/corn" },
+    { "predicate": { "custom_model_data": 20217},  "model": "item/custom/christmas/cookies/creeper" },
+    { "predicate": { "custom_model_data": 20218},  "model": "item/custom/christmas/cookies/enderman" },
+    { "predicate": { "custom_model_data": 20219},  "model": "item/custom/christmas/cookies/jeb_" },
+    { "predicate": { "custom_model_data": 202110}, "model": "item/custom/christmas/cookies/mergookie" },
+    { "predicate": { "custom_model_data": 202111}, "model": "item/custom/christmas/cookies/merguwukie" },
+    { "predicate": { "custom_model_data": 202112}, "model": "item/custom/christmas/cookies/pig" },
+    { "predicate": { "custom_model_data": 202113}, "model": "item/custom/christmas/cookies/sheep" },
+    { "predicate": { "custom_model_data": 202114}, "model": "item/custom/christmas/cookies/snowman" },
+    { "predicate": { "custom_model_data": 202115}, "model": "item/custom/christmas/cookies/tnt" },
+    { "predicate": { "custom_model_data": 202116}, "model": "item/custom/christmas/cookies/villager" }
   ]
 }

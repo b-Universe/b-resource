@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "gui/custom/container/buttons/yeah"
+	},
+	"display": {
+		"gui": {
+			"translation": [9, -11.25, 80],
+			"scale": [2.2, 2.2, 2.2]
+		}
+	}
+}

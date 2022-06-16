@@ -128,6 +128,13 @@
         {"predicate": {"custom_model_data": 14, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/medium_drill"},
         {"predicate": {"custom_model_data": 14, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/medium_drill"},
         {"predicate": {"custom_model_data": 14, "charged": 1},                "model": "item/custom/devices/medium_drill"},
-        {"predicate": {"custom_model_data": 14, "charged": 1, "firework": 1}, "model": "item/custom/devices/medium_drill"}
+        {"predicate": {"custom_model_data": 14, "charged": 1, "firework": 1}, "model": "item/custom/devices/medium_drill"},
+
+        {"predicate": {"custom_model_data": 15},                              "model": "item/custom/devices/large_handheld_drill"},
+        {"predicate": {"custom_model_data": 15, "pulling": 1},                "model": "item/custom/devices/large_handheld_drill"},
+        {"predicate": {"custom_model_data": 15, "pulling": 1, "pull": 0.58},  "model": "item/custom/devices/large_handheld_drill"},
+        {"predicate": {"custom_model_data": 15, "pulling": 1, "pull": 1.0},   "model": "item/custom/devices/large_handheld_drill"},
+        {"predicate": {"custom_model_data": 15, "charged": 1},                "model": "item/custom/devices/large_handheld_drill"},
+        {"predicate": {"custom_model_data": 15, "charged": 1, "firework": 1}, "model": "item/custom/devices/large_handheld_drill"}
     ]
 }

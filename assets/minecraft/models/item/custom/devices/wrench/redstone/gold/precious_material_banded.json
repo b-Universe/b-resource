@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/devices/wrench/redstone/wrench_banded",
+	"textures": {
+		"2": "block/gold_block",
+		"particle": "block/gold_block"
+  }
+}

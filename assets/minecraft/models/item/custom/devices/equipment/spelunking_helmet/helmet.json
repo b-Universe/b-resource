@@ -2,10 +2,7 @@
 	"textures": {
 		"0": "block/iron_block",
 		"1": "block/glass",
-		"2": "block/black_concrete",
-		"3": "block/gold_block",
-		"5": "block/redstone_lamp_on",
-		"particle": "block/iron_block"
+		"2": "block/black_concrete"
 	},
 	"elements": [
 		{

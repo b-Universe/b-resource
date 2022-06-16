@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/devices/wrench/redstone/gold/precious_material",
+	"textures": {
+		"3": "block/spruce_log_top",
+		"4": "block/spruce_planks"
+  }
+}
