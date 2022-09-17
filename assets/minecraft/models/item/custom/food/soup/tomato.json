@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/food/skull_base",
+	"textures": {
+		"0": "item/custom/food/soup/tomato",
+		"particle": "item/apple"
+  }
+}

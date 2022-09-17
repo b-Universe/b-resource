@@ -82,6 +82,150 @@
     },
     {
        "type": "bitmap",
+       "file": "gui/custom/container/floral_1.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1011"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/floral_2.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1012"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/floral_3.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1013"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/floral_4.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1014"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/floral_5.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1015"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/floral_6.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1016"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/floral_7.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1017"
+       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/container/floral_8.png",
+      "ascent": 12,
+      "height": 256,
+      "chars": [
+         "\u1018"
+      ]
+   },
+   {
+       "type": "bitmap",
+       "file": "gui/custom/container/lego_generic_01.png",
+       "ascent": 12,
+       "height": 256,
+       "chars": [
+          "\u1019"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/lego_generic_02_1.png",
+       "ascent": 13,
+       "height": 89,
+       "chars": [
+          "\u1020"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/lego_generic_02_2.png",
+       "ascent": 13,
+       "height": 89,
+       "chars": [
+          "\u1021"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/lego_generic_04_1.png",
+       "ascent": 17,
+       "height": 128,
+       "chars": [
+          "\u1022"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/lego_generic_04_2.png",
+       "ascent": 17,
+       "height": 128,
+       "chars": [
+          "\u1023"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/explosions.png",
+       "ascent": 46,
+       "height": 256,
+       "chars": [
+          "\u1024"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/mcdonaldsfillet.png",
+       "ascent": 46,
+       "height": 256,
+       "chars": [
+          "\u1025"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/office_test_01.png",
+       "ascent": 46,
+       "height": 256,
+       "chars": [
+          "\u1026"
+       ]
+    },
+    {
+       "type": "bitmap",
        "file": "gui/custom/container/pufferfish/generic_27.png",
        "ascent": 12,
        "height": 256,

@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/food/skull_base",
+	"textures": {
+		"0": "item/custom/food/ice_cream/eye_scream",
+		"particle": "item/custom/food/ice_cream/eye_scream_p"
+  }
+}

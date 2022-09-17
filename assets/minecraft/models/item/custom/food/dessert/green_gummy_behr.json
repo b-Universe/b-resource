@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/food/skull_base",
+	"textures": {
+		"0": "item/custom/food/dessert/green_gummy_behr",
+		"particle": "block/slime_block"
+  }
+}

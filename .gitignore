@@ -44,6 +44,9 @@ assets/minecraft/models/item/*
 # ██ [ for unplacable, consumable, tintable items              ] ██
 !assets/minecraft/models/item/potion.json
 
+# ██ [ for unplacable, consumable items              ] ██
+!assets/minecraft/models/item/cooked_chicken.json
+
 # ██ [ for unplacable, stackable items                         ] ██
 !assets/minecraft/models/item/stick.json
 
