@@ -152,51 +152,6 @@
          "\u1018"
       ]
    },
-   {
-       "type": "bitmap",
-       "file": "gui/custom/container/lego_generic_01.png",
-       "ascent": 12,
-       "height": 256,
-       "chars": [
-          "\u1019"
-       ]
-    },
-    {
-       "type": "bitmap",
-       "file": "gui/custom/container/lego_generic_02_1.png",
-       "ascent": 13,
-       "height": 89,
-       "chars": [
-          "\u1020"
-       ]
-    },
-    {
-       "type": "bitmap",
-       "file": "gui/custom/container/lego_generic_02_2.png",
-       "ascent": 13,
-       "height": 89,
-       "chars": [
-          "\u1021"
-       ]
-    },
-    {
-       "type": "bitmap",
-       "file": "gui/custom/container/lego_generic_04_1.png",
-       "ascent": 17,
-       "height": 128,
-       "chars": [
-          "\u1022"
-       ]
-    },
-    {
-       "type": "bitmap",
-       "file": "gui/custom/container/lego_generic_04_2.png",
-       "ascent": 17,
-       "height": 128,
-       "chars": [
-          "\u1023"
-       ]
-    },
     {
        "type": "bitmap",
        "file": "gui/custom/container/explosions.png",
