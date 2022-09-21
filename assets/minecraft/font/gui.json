@@ -172,6 +172,42 @@
     },
     {
        "type": "bitmap",
+       "file": "gui/custom/container/builder_54_scroll.png",
+       "ascent": 14,
+       "height": 256,
+       "chars": [
+          "\u1026"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/type_menu.png",
+       "ascent": 13,
+       "height": 256,
+       "chars": [
+          "\u1027"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/type_menu_27_6x3.png",
+       "ascent": 14,
+       "height": 256,
+       "chars": [
+          "\u1028"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/type_menu_27_4x3.png",
+       "ascent": 15,
+       "height": 256,
+       "chars": [
+          "\u1029"
+       ]
+    },
+    {
+       "type": "bitmap",
        "file": "gui/custom/container/office_test_01.png",
        "ascent": 46,
        "height": 256,
