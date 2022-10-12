@@ -151,7 +151,7 @@
       "chars": [
          "\u1018"
       ]
-   },
+    },
     {
        "type": "bitmap",
        "file": "gui/custom/container/explosions.png",
@@ -208,11 +208,56 @@
     },
     {
        "type": "bitmap",
-       "file": "gui/custom/container/office_test_01.png",
-       "ascent": 46,
+       "file": "gui/custom/container/2x7_menu.png",
+       "ascent": 14,
        "height": 256,
        "chars": [
-          "\u1026"
+          "\u1030"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/1x_3x3_menu.png",
+       "ascent": 16,
+       "height": 256,
+       "chars": [
+          "\u1031"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/1x_5_menu.png",
+       "ascent": 16,
+       "height": 256,
+       "chars": [
+          "\u1032"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/2x_5_menu.png",
+       "ascent": 14,
+       "height": 256,
+       "chars": [
+          "\u1033"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/2x_6x.png",
+       "ascent": 14,
+       "height": 256,
+       "chars": [
+          "\u1034"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/1x3.png",
+       "ascent": 14,
+       "height": 256,
+       "chars": [
+          "\u1035"
        ]
     },
     {
@@ -258,6 +303,60 @@
        "height": 35,
        "chars": [
           "\u2005"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/buttons/left_unselected.png",
+       "ascent": 9,
+       "height": 11,
+       "chars": [
+          "\u2006"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/buttons/center_unselected.png",
+       "ascent": 9,
+       "height": 11,
+       "chars": [
+          "\u2007"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/buttons/right_unselected.png",
+       "ascent": 9,
+       "height": 11,
+       "chars": [
+          "\u2008"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/buttons/left_selected.png",
+       "ascent": 9,
+       "height": 11,
+       "chars": [
+          "\u2009"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/buttons/center_selected.png",
+       "ascent": 9,
+       "height": 11,
+       "chars": [
+          "\u2010"
+       ]
+    },
+    {
+       "type": "bitmap",
+       "file": "gui/custom/container/buttons/right_selected.png",
+       "ascent": 9,
+       "height": 11,
+       "chars": [
+          "\u2011"
        ]
     }
   ]
