@@ -322,10 +322,16 @@
     { "predicate": { "custom_model_data": 1300006}, "model": "gui/custom/container/blank_test" },
     { "predicate": { "custom_model_data": 1300007}, "model": "entity/custom/turret/crossbow/backup_full" },
     { "predicate": { "custom_model_data": 1300008}, "model": "item/custom/devices/jump_pack_active" },
-    { "predicate": { "custom_model_data": 1300009}, "model": "entity/custom/aircraft/borwegian_sky_getaway" },
-    { "predicate": { "custom_model_data": 1300010}, "model": "entity/custom/aircraft/borwegian_dawn_breakaway" },
-    { "predicate": { "custom_model_data": 1300011}, "model": "entity/custom/aircraft/borwegian_comfort_bliss_escape" },
-    { "predicate": { "custom_model_data": 1300012}, "model": "entity/custom/aircraft/borwegian_comfort_pearl_escape" },
+
+    { "predicate": { "custom_model_data": 1300010}, "model": "entity/custom/aircraft/borwegian_sky_getaway" },
+    { "predicate": { "custom_model_data": 1300011}, "model": "entity/custom/aircraft/borwegian_sky_getaway_hatch" },
+    { "predicate": { "custom_model_data": 1300012}, "model": "entity/custom/aircraft/borwegian_sky_getaway_landed_no_hatch" },
+    { "predicate": { "custom_model_data": 1300013}, "model": "entity/custom/aircraft/borwegian_sky_getaway_landed_hatch_open" },
+    { "predicate": { "custom_model_data": 1300014}, "model": "entity/custom/aircraft/borwegian_sky_getaway_landed_hatch_close" },
+    
+    { "predicate": { "custom_model_data": 1300020}, "model": "entity/custom/aircraft/borwegian_dawn_breakaway" },
+    { "predicate": { "custom_model_data": 1300030}, "model": "entity/custom/aircraft/borwegian_comfort_bliss_escape" },
+    { "predicate": { "custom_model_data": 1300040}, "model": "entity/custom/aircraft/borwegian_comfort_pearl_escape" },
 
     { "predicate": { "custom_model_data": 1400009}, "model": "misc/custom/west_test" },
     { "predicate": { "custom_model_data": 1400010}, "model": "misc/custom/emoji_book/categories/people" },
@@ -354,7 +360,9 @@
     { "predicate": { "custom_model_data": 1400123}, "model": "misc/custom/letters/lowercase/w" },
     { "predicate": { "custom_model_data": 1400124}, "model": "misc/custom/letters/lowercase/x" },
     { "predicate": { "custom_model_data": 1400125}, "model": "misc/custom/letters/lowercase/y" },
-    { "predicate": { "custom_model_data": 1400126}, "model": "misc/custom/letters/lowercase/z" }
+    { "predicate": { "custom_model_data": 1400126}, "model": "misc/custom/letters/lowercase/z" },
+
+    { "predicate": { "custom_model_data": 1500000}, "model": "entity/custom/test_scan" }
 
   ]
 }
