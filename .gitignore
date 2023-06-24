@@ -11,6 +11,7 @@
 *.bbmodel
 *.psb
 *.psd
+hold/*
 
 # ██ [ Default Minecraft assets      ] ██
 assets/minecraft/textures/block/*
@@ -23,7 +24,7 @@ assets/minecraft/models/block/*
 assets/minecraft/models/item/*
 !assets/minecraft/models/item/custom/
 
-# ██ [ Whitelist Minecraft overrides ] ██
+# ██ [ Whitelist Minecraft overrides                           ] ██
 !assets/minecraft/models/item/barrier.json
 !assets/minecraft/models/item/black_stained_glass_pane.json
 !assets/minecraft/models/item/blaze_rod.json
@@ -38,13 +39,13 @@ assets/minecraft/models/item/*
 # ██ [ for unplacable, unstackable, tintable items             ] ██
 !assets/minecraft/models/item/leather_horse_armor.json
 
-# ██ [ for placable hard items ] ██
+# ██ [ for placable hard items                                 ] ██
 !assets/minecraft/models/item/obsidian.json
 
 # ██ [ for unplacable, consumable, tintable items              ] ██
 !assets/minecraft/models/item/potion.json
 
-# ██ [ for unplacable, consumable items              ] ██
+# ██ [ for unplacable, consumable items                        ] ██
 !assets/minecraft/models/item/cooked_chicken.json
 
 # ██ [ for unplacable, stackable items                         ] ██
