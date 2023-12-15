@@ -1,7 +1,0 @@
-{
-  "parent": "item/custom/devices/wrench/redstone/wrench",
-	"textures": {
-		"2": "block/diamond_block",
-		"particle": "block/diamond_block"
-  }
-}

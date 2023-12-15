@@ -1,7 +1,0 @@
-{
-  "parent": "item/custom/devices/wrench/redstone/gold/precious_material_banded",
-	"textures": {
-		"3": "block/dark_oak_log_top",
-		"4": "block/dark_oak_planks"
-  }
-}

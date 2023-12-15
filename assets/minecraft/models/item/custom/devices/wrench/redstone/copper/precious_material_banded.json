@@ -1,7 +1,0 @@
-{
-  "parent": "item/custom/devices/wrench/redstone/wrench_banded",
-	"textures": {
-		"2": "block/copper_block",
-		"particle": "block/copper_block"
-  }
-}

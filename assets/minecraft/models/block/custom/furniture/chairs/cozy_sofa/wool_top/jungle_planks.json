@@ -1,6 +1,0 @@
-{
-  "parent": "block/custom/furniture/chairs/cozy_sofa/wool_top/base",
-  "textures": {
-    "0": "block/jungle_planks"
-  }
-}
