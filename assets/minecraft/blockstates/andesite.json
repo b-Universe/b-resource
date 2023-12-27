@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/andesite", "y": 0,   "x": 0},
+      { "model": "block/andesite", "y": 180, "x": 0},
+      { "model": "block/andesite", "y": 0,   "x": 180},
+      { "model": "block/andesite", "y": 180, "x": 180}
+    ]
+  }
+}
