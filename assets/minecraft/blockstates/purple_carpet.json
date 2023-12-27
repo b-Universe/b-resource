@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/purple_carpet", "x": 0, "y": 0   },
+      { "model": "block/purple_carpet", "x": 0, "y": 180 }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/magenta_carpet", "x": 0, "y": 0   },
+      { "model": "block/magenta_carpet", "x": 0, "y": 180 }
+    ]
+  }
+}
