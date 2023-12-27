@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/muddy_mangrove_roots", "x": 90,  "y": 90  },
+      { "model": "block/muddy_mangrove_roots", "x": 90,  "y": 270 },
+      { "model": "block/muddy_mangrove_roots", "x": 270, "y": 90  },
+      { "model": "block/muddy_mangrove_roots", "x": 270, "y": 270 }
+    ],
+    "axis=y": [
+      { "model": "block/muddy_mangrove_roots", "x": 0,   "y": 0    },
+      { "model": "block/muddy_mangrove_roots", "x": 0,   "y": 180  },
+      { "model": "block/muddy_mangrove_roots", "x": 180, "y": 0    },
+      { "model": "block/muddy_mangrove_roots", "x": 180, "y": 180  }
+    ],
+    "axis=z": [
+      { "model": "block/muddy_mangrove_roots", "x": 90,  "y": 0    },
+      { "model": "block/muddy_mangrove_roots", "x": 90,  "y": 180  },
+      { "model": "block/muddy_mangrove_roots", "x": 270, "y": 0    },
+      { "model": "block/muddy_mangrove_roots", "x": 270, "y": 180  }
+    ]
+  }
+}

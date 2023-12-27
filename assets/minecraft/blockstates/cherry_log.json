@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x": [
+      { "model": "block/cherry_log_horizontal", "x": 90,  "y": 90  },
+      { "model": "block/cherry_log_horizontal", "x": 90,  "y": 270 },
+      { "model": "block/cherry_log_horizontal", "x": 270, "y": 90  },
+      { "model": "block/cherry_log_horizontal", "x": 270, "y": 270 }
+    ],
+    "axis=y": [
+      { "model": "block/cherry_log",            "x": 0,   "y": 0    },
+      { "model": "block/cherry_log",            "x": 0,   "y": 180  },
+      { "model": "block/cherry_log",            "x": 180, "y": 0    },
+      { "model": "block/cherry_log",            "x": 180, "y": 180  }
+    ],
+    "axis=z": [
+      { "model": "block/cherry_log_horizontal", "x": 90,  "y": 0    },
+      { "model": "block/cherry_log_horizontal", "x": 90,  "y": 180  },
+      { "model": "block/cherry_log_horizontal", "x": 270, "y": 0    },
+      { "model": "block/cherry_log_horizontal", "x": 270, "y": 180  }
+    ]
+  }
+}
