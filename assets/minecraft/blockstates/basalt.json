@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/basalt", "x": 0,   "y": 0   },
+      { "model": "block/basalt", "x": 0,   "y": 180 },
+      { "model": "block/basalt", "x": 180, "y": 0   },
+      { "model": "block/basalt", "x": 180, "y": 180 }
+    ]
+  }
+}
