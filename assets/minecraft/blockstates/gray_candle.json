@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "candles=1,lit=false": { "model": "block/gray_candle_one_candle"     },
+    "candles=1,lit=true":  { "model": "block/gray_candle_one_candle_lit" },
+    "candles=2,lit=false": [
+      { "model": "block/gray_candle_two_candles",       "x": 0, "y": 0   },
+      { "model": "block/gray_candle_two_candles",       "x": 0, "y": 90  },
+      { "model": "block/gray_candle_two_candles",       "x": 0, "y": 180 },
+      { "model": "block/gray_candle_two_candles",       "x": 0, "y": 270 }
+    ],
+    "candles=2,lit=true":  [
+      { "model": "block/gray_candle_two_candles_lit",   "x": 0, "y": 0   },
+      { "model": "block/gray_candle_two_candles_lit",   "x": 0, "y": 90  },
+      { "model": "block/gray_candle_two_candles_lit",   "x": 0, "y": 180 },
+      { "model": "block/gray_candle_two_candles_lit",   "x": 0, "y": 270 }
+    ],
+    "candles=3,lit=false": [
+      { "model": "block/gray_candle_three_candles",     "x": 0, "y": 0   },
+      { "model": "block/gray_candle_three_candles",     "x": 0, "y": 90  },
+      { "model": "block/gray_candle_three_candles",     "x": 0, "y": 180 },
+      { "model": "block/gray_candle_three_candles",     "x": 0, "y": 270 }
+    ],
+    "candles=3,lit=true":  [
+      { "model": "block/gray_candle_three_candles_lit", "x": 0, "y": 0   },
+      { "model": "block/gray_candle_three_candles_lit", "x": 0, "y": 90  },
+      { "model": "block/gray_candle_three_candles_lit", "x": 0, "y": 180 },
+      { "model": "block/gray_candle_three_candles_lit", "x": 0, "y": 270 }
+    ],
+    "candles=4,lit=false": [
+      { "model": "block/gray_candle_four_candles",      "x": 0, "y": 0   },
+      { "model": "block/gray_candle_four_candles",      "x": 0, "y": 90  },
+      { "model": "block/gray_candle_four_candles",      "x": 0, "y": 180 },
+      { "model": "block/gray_candle_four_candles",      "x": 0, "y": 270 }
+    ],
+    "candles=4,lit=true":  [
+      { "model": "block/gray_candle_four_candles_lit",  "x": 0, "y": 0   },
+      { "model": "block/gray_candle_four_candles_lit",  "x": 0, "y": 90  },
+      { "model": "block/gray_candle_four_candles_lit",  "x": 0, "y": 180 },
+      { "model": "block/gray_candle_four_candles_lit",  "x": 0, "y": 270 }
+    ]
+  }
+}
