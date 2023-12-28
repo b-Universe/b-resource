@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "hatch=0": [
+      { "model": "minecraft:block/sniffer_egg_not_cracked",      "y": 0   },
+      { "model": "minecraft:block/sniffer_egg_not_cracked",      "y": 90  },
+      { "model": "minecraft:block/sniffer_egg_not_cracked",      "y": 180 },
+      { "model": "minecraft:block/sniffer_egg_not_cracked",      "y": 270 }
+    ],
+    "hatch=1": [
+      { "model": "minecraft:block/sniffer_egg_slightly_cracked", "y": 0   },
+      { "model": "minecraft:block/sniffer_egg_slightly_cracked", "y": 90  },
+      { "model": "minecraft:block/sniffer_egg_slightly_cracked", "y": 180 },
+      { "model": "minecraft:block/sniffer_egg_slightly_cracked", "y": 270 }
+    ],
+    "hatch=2": [
+      { "model": "minecraft:block/sniffer_egg_very_cracked",     "y": 0   },
+      { "model": "minecraft:block/sniffer_egg_very_cracked",     "y": 90  },
+      { "model": "minecraft:block/sniffer_egg_very_cracked",     "y": 180 },
+      { "model": "minecraft:block/sniffer_egg_very_cracked",     "y": 270 }
+    ]
+  }
+}
