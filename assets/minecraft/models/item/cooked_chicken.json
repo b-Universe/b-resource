@@ -1,0 +1,16 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_chicken"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000 }, "model": "item/custom/food/gyro" },
+    { "predicate": { "custom_model_data": 1001 }, "model": "item/custom/food/golden_gyro" },
+    { "predicate": { "custom_model_data": 1002 }, "model": "item/custom/food/sweet_gyro" },
+    { "predicate": { "custom_model_data": 1003 }, "model": "item/custom/food/spicy_gyro" },
+    { "predicate": { "custom_model_data": 1004 }, "model": "item/custom/food/hamburger" },
+    { "predicate": { "custom_model_data": 1005 }, "model": "item/custom/food/sandwich" }
+  ]
+}
