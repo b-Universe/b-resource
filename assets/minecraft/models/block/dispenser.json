@@ -1,0 +1,11 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+  "parent": "minecraft:block/dispenser",
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001}, "model": "block/custom/wireless_redstone/transmitter" },
+    { "predicate": { "custom_model_data": 1002}, "model": "block/custom/wireless_redstone/transmitter_off" },
+    { "predicate": { "custom_model_data": 1003}, "model": "block/custom/wireless_redstone/receiver" },
+    { "predicate": { "custom_model_data": 1004}, "model": "block/custom/wireless_redstone/receiver_off" }
+  ]
+}
