@@ -32,7 +32,7 @@ assets/minecraft/models/item/*
 !assets/minecraft/models/item/cookie.json
 !assets/minecraft/models/item/crossbow.json
 !assets/minecraft/models/item/pufferfish.json
-!assets/minecraft/models/block/dispenser.json
+!assets/minecraft/models/item/dispenser.json
 
 # ██ [ for unplacable, consumable and consumed, tintable items ] ██
 !assets/minecraft/models/item/glass_bottle.json

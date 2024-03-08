@@ -1,8 +1,9 @@
 {
   "github": "b-universe/b-resource",
   "credit": "Bear / Hydra",
-    "parent": "block/custom/wireless_redstone/block",
-    "textures": {
-      "side": "block/custom/wireless_redstone/receiver"
-    }
+  "parent": "block/custom/wireless_redstone/block",
+  "textures": {
+    "side": "block/custom/wireless_redstone/receiver",
+    "end": "block/custom/wireless_redstone/top"
+  }
 }
