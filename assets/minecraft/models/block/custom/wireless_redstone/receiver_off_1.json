@@ -1,0 +1,10 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+	"parent": "block/cube_column",
+	"textures": {
+		"side": "block/custom/wireless_redstone/receiver_off",
+		"end": "block/custom/wireless_redstone/top_1",
+		"particle": "block/custom/wireless_redstone/top_1"
+	}
+}
