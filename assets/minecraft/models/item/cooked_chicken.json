@@ -11,6 +11,13 @@
     { "predicate": { "custom_model_data": 1002 }, "model": "item/custom/food/sweet_gyro" },
     { "predicate": { "custom_model_data": 1003 }, "model": "item/custom/food/spicy_gyro" },
     { "predicate": { "custom_model_data": 1004 }, "model": "item/custom/food/hamburger" },
-    { "predicate": { "custom_model_data": 1005 }, "model": "item/custom/food/sandwich" }
+    { "predicate": { "custom_model_data": 1005 }, "model": "item/custom/food/sandwich" },
+    { "predicate": { "custom_model_data": 1006 }, "model": "item/custom/food/hotdog" },
+    { "predicate": { "custom_model_data": 1007 }, "model": "item/custom/food/uncooked_fries" },
+    { "predicate": { "custom_model_data": 1008 }, "model": "item/custom/food/baked_fries" },
+    { "predicate": { "custom_model_data": 1009 }, "model": "item/custom/food/purple_grapes" },
+
+    { "predicate": { "custom_model_data": 5000 }, "model": "block/custom/purple_grape_bush_stage2" },
+    { "predicate": { "custom_model_data": 5001 }, "model": "block/custom/purple_grape_bush_stage3" }
   ]
 }
