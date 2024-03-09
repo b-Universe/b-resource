@@ -3,17 +3,6 @@
   "credit": "Bear / Hydra",
   "parent": "minecraft:item/template_skull",
   "overrides": [
-    {"predicate": { "custom_model_data": 1}, "model": "item/player_animator/template/head" },
-    {"predicate": { "custom_model_data": 2}, "model": "item/player_animator/template/norm_right_shoulder"},
-    {"predicate": { "custom_model_data": 3}, "model": "item/player_animator/template/norm_left_shoulder"},
-    {"predicate": { "custom_model_data": 4}, "model": "item/player_animator/template/norm_arm"},
-    {"predicate": { "custom_model_data": 5}, "model": "item/player_animator/template/slim_right_shoulder"},
-    {"predicate": { "custom_model_data": 6}, "model": "item/player_animator/template/slim_left_shoulder"},
-    {"predicate": { "custom_model_data": 7}, "model": "item/player_animator/template/slim_arm"},
-    {"predicate": { "custom_model_data": 8}, "model": "item/player_animator/template/body"},
-    {"predicate": { "custom_model_data": 9}, "model": "item/player_animator/template/leg"},
-
-
     { "predicate": { "custom_model_data": 1000 }, "model": "gui/custom/profile/head" },
     { "predicate": { "custom_model_data": 1041 }, "model": "gui/custom/profile/body" },
     { "predicate": { "custom_model_data": 1042 }, "model": "gui/custom/profile/empty_armor_slot_helmet" },
@@ -25,7 +14,6 @@
     { "predicate": { "custom_model_data": 1049 }, "model": "gui/custom/profile/icons/b" },
     { "predicate": { "custom_model_data": 1050 }, "model": "gui/custom/profile/icons/discord" },
     { "predicate": { "custom_model_data": 1051 }, "model": "gui/custom/profile/icons/no_discord" },
-    { "predicate": { "custom_model_data": 1052 }, "model": "gui/custom/profile/icons/pallette" },
     { "predicate": { "custom_model_data": 1053 }, "model": "gui/custom/blank" },
     { "predicate": { "custom_model_data": 1054 }, "model": "gui/custom/profile/flat" }
   ]
