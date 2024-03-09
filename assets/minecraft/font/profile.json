@@ -1,0 +1,63 @@
+
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/profile.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/badges.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/pallettei.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE003"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/background/blank.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE010"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/background/textured_01.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE011"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/background/textured_02.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE012"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/profile/background/textured_03.png",
+      "ascent": 14,
+      "height": 256,
+      "chars": ["\uE013"]
+    },
+    {
+        "type": "ttf",
+        "file": "minecraft.ttf",
+        "shift": [0.0, 4.0],
+        "size": 10.0,
+        "oversample": 16.0
+    }
+  ]
+}
+ 
