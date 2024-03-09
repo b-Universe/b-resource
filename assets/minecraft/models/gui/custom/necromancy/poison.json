@@ -1,0 +1,8 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "gui/custom/necromancy/poison"
+  }
+}
