@@ -1,8 +1,8 @@
 {
   "github": "b-universe/b-resource",
   "credit": "Bear / Hydra",
-	"parent": "gui/custom/necromancy/white_skeleton",
-	"textures": {
-		"1": "block/slime_block"
-	}
+  "parent": "gui/custom/necromancy/white_skeleton",
+  "textures": {
+    "1": "block/slime_block"
+  }
 }

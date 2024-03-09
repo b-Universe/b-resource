@@ -2,15 +2,15 @@
   "github": "b-universe/b-resource",
   "credit": "Bear / Hydra",
   "parent": "builtin/entity",
-	"textures": {
-		"particle": "block/soul_sand"
-	},
-	"gui_light": "front",
-	"display": {
-		"gui": {
-			"rotation": [0, 13, 9],
-			"translation": [0.75, 3.5, 0],
-			"scale": [2, 2, 2]
-		}
-	}
+  "textures": {
+    "particle": "block/soul_sand"
+  },
+  "gui_light": "front",
+  "display": {
+    "gui": {
+      "rotation": [0, 13, 9],
+      "translation": [0.75, 3.5, 0],
+      "scale": [2, 2, 2]
+    }
+  }
 }

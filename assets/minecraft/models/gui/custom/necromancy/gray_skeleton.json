@@ -1,7 +1,7 @@
 {
   "github": "b-universe/b-resource",
   "credit": "Bear / Hydra",
-	"parent": "gui/custom/necromancy/skeletal_mage_icon",
+  "parent": "gui/custom/necromancy/skeletal_mage_icon",
   "textures": {
     "0": "entity/skeleton/stray"
   }
