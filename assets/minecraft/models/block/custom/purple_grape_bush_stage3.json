@@ -1,0 +1,10 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+	"parent": "block/custom/cross_parent",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/custom/purple_grape_bush_stage3",
+		"cross": "block/custom/purple_grape_bush_stage3"
+	}
+}
