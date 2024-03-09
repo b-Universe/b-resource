@@ -1,0 +1,23 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/brush"
+    },
+  "overrides": [
+    { "predicate": {"brushing": 0.25}, "model": "item/brush_brushing_0"},
+    { "predicate": {"brushing": 0.5},  "model": "item/brush_brushing_1"},
+    { "predicate": {"brushing": 0.75}, "model": "item/brush_brushing_2"},
+
+    { "predicate": {"custom_model_data": 1000},                    "model": "item/custom/magic/necronomnomnom/idle"},
+    { "predicate": {"custom_model_data": 1000,  "brushing": 0.25}, "model": "item/custom/magic/necronomnomnom/25"},
+    { "predicate": {"custom_model_data": 1000,  "brushing": 0.5},  "model": "item/custom/magic/necronomnomnom/50"},
+    { "predicate": {"custom_model_data": 1000,  "brushing": 0.75}, "model": "item/custom/magic/necronomnomnom/75"},
+
+    { "predicate": {"custom_model_data": 1001},                    "model": "item/custom/magic/blue_mana_stick/idle"},
+    { "predicate": {"custom_model_data": 1001,  "brushing": 0.25}, "model": "item/custom/magic/blue_mana_stick/25"},
+    { "predicate": {"custom_model_data": 1001,  "brushing": 0.5},  "model": "item/custom/magic/blue_mana_stick/50"},
+    { "predicate": {"custom_model_data": 1001,  "brushing": 0.75}, "model": "item/custom/magic/blue_mana_stick/75"}
+  ]
+}
