@@ -1,10 +1,11 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/potion_overlay",
-        "layer1": "item/potion"
-    },
-    "overrides": [
-      { "predicate": { "custom_model_data": 1 }, "model": "block/custom/water_block" }
-    ]
-  }
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "item/potion_overlay",
+      "layer1": "item/potion"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "block/custom/water_block" },
+    { "predicate": { "custom_model_data": 1000 }, "model": "gui/custom/white" }
+  ]
+}
