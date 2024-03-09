@@ -1,0 +1,29 @@
+{
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_11"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001 }, "model": "entity/custom/skeleton/wololo" },
+
+    { "predicate": { "custom_model_data": 1011 }, "model": "gui/custom/necromancy/fire_white_skeleton" },
+    { "predicate": { "custom_model_data": 1012 }, "model": "gui/custom/necromancy/ice_white_skeleton" },
+    { "predicate": { "custom_model_data": 1013 }, "model": "gui/custom/necromancy/slime_white_skeleton" },
+
+    { "predicate": { "custom_model_data": 1014 }, "model": "gui/custom/necromancy/fire_gray_skeleton" },
+    { "predicate": { "custom_model_data": 1015 }, "model": "gui/custom/necromancy/ice_gray_skeleton" },
+    { "predicate": { "custom_model_data": 1016 }, "model": "gui/custom/necromancy/slime_gray_skeleton" },
+
+    { "predicate": { "custom_model_data": 1017 }, "model": "gui/custom/necromancy/fire_black_skeleton" },
+    { "predicate": { "custom_model_data": 1018 }, "model": "gui/custom/necromancy/ice_black_skeleton" },
+    { "predicate": { "custom_model_data": 1019 }, "model": "gui/custom/necromancy/slime_black_skeleton" },
+
+    { "predicate": { "custom_model_data": 1020 }, "model": "gui/custom/necromancy/ice" },
+    { "predicate": { "custom_model_data": 1021 }, "model": "gui/custom/necromancy/poison" },
+
+    { "predicate": { "custom_model_data": 2001 }, "model": "item/custom/bedit/selection_block" },
+    { "predicate": { "custom_model_data": 2002 }, "model": "item/custom/magic/pickle_rocket" }
+  ]
+}
