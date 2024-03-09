@@ -33,6 +33,10 @@ assets/minecraft/models/item/*
 !assets/minecraft/models/item/crossbow.json
 !assets/minecraft/models/item/pufferfish.json
 !assets/minecraft/models/item/dispenser.json
+!assets/minecraft/models/item/wooden_sword.json
+!assets/minecraft/models/item/player_head.json
+!assets/minecraft/models/item/music_disc_11.json
+!assets/minecraft/models/item/brush.json
 
 # ██ [ for unplacable, consumable and consumed, tintable items ] ██
 !assets/minecraft/models/item/glass_bottle.json
