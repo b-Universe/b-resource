@@ -12,6 +12,21 @@
     },
     {
       "type": "directory",
+      "source": "gui/custom",
+      "prefix": "gui/custom/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/skeleton",
+      "prefix": "entity/skeleton/"
+    },
+    {
+      "type": "directory",
+      "prefix": "player_animator/template/",
+      "source": "player_animator/template"
+    },
+    {
+      "type": "directory",
       "source": "entity/conduit",
       "prefix": "entity/conduit/"
     },
