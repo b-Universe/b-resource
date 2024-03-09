@@ -1,5 +1,6 @@
 {
-  "credit": "Made with Blockbench",
+  "github": "b-universe/b-resource",
+  "credit": "Bear / Hydra",
   "textures": {
     "0": "block/water_still",
     "1": "block/water_flow",
