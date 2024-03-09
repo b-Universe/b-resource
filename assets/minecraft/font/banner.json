@@ -1,0 +1,47 @@
+
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "gui/custom/banner/wizards_of_beaverly_place.png",
+      "ascent": 7,
+      "height": 64,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/banner/space_1.png",
+      "ascent": 170,
+      "height": 256,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/banner/space_2.png",
+      "ascent": 170,
+      "height": 256,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/banner/space_3.png",
+      "ascent": 170,
+      "height": 256,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/banner/space_4.png",
+      "ascent": 170,
+      "height": 256,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gui/custom/banner/space_5.png",
+      "ascent": 170,
+      "height": 256,
+      "chars": ["\uE006"]
+    }
+  ]
+}
