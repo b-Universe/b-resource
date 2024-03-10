@@ -1,0 +1,8 @@
+{
+  "parent": "item/custom/equipment/spelunking_helmet/helmet",
+  "textures": {
+    "3": "block/diamond_block",
+    "5": "block/sea_lantern",
+    "particle": "block/diamond_block"
+  }
+}
