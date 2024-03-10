@@ -5,6 +5,7 @@
       "layer1": "item/potion"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "block/custom/water_block" }
+    { "predicate": { "custom_model_data": 1 }, "model": "block/custom/water_block" },
+    { "predicate": { "custom_model_data": 2 }, "model": "gui/custom/bgui/suit" }
   ]
 }
