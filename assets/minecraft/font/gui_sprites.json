@@ -1,0 +1,20 @@
+
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "gui/custom/wireless_redstone/transmitter.png",
+      "ascent": 10,
+      "height": 30,
+      "chars": ["\uE001"]
+    },
+    {
+        "type": "ttf",
+        "file": "minecraft.ttf",
+        "shift": [0.0, 4.0],
+        "size": 10.0,
+        "oversample": 16.0
+    }
+  ]
+}
+ 
