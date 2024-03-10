@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001}, "model": "item/custom/equipment/spelunking_helmet/gold" },
+    { "predicate": { "custom_model_data": 1002}, "model": "item/custom/equipment/spelunking_helmet/diamond" }
+  ]
+}
