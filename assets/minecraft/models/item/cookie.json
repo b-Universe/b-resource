@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001}, "model": "item/custom/christmas/cookies/axolotl" },
+    { "predicate": { "custom_model_data": 1002}, "model": "item/custom/christmas/cookies/chicken" },
+    { "predicate": { "custom_model_data": 1003}, "model": "item/custom/christmas/cookies/christmas_tree" },
+    { "predicate": { "custom_model_data": 1004}, "model": "item/custom/christmas/cookies/christmas_tree_decorated" },
+    { "predicate": { "custom_model_data": 1005}, "model": "item/custom/christmas/cookies/creeper" },
+    { "predicate": { "custom_model_data": 1006}, "model": "item/custom/christmas/cookies/enderman" },
+    { "predicate": { "custom_model_data": 1007}, "model": "item/custom/christmas/cookies/mergookie" },
+    { "predicate": { "custom_model_data": 1008}, "model": "item/custom/christmas/cookies/merguwukie" },
+    { "predicate": { "custom_model_data": 1009}, "model": "item/custom/christmas/cookies/pig" },
+    { "predicate": { "custom_model_data": 10010}, "model": "item/custom/christmas/cookies/sheep" },
+    { "predicate": { "custom_model_data": 10011}, "model": "item/custom/christmas/cookies/snowman" },
+    { "predicate": { "custom_model_data": 10012}, "model": "item/custom/christmas/cookies/tnt" },
+    { "predicate": { "custom_model_data": 10013}, "model": "item/custom/christmas/cookies/villager" }
+  ]
+}
