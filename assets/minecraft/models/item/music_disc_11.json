@@ -23,7 +23,6 @@
     { "predicate": { "custom_model_data": 1020 }, "model": "gui/custom/necromancy/ice" },
     { "predicate": { "custom_model_data": 1021 }, "model": "gui/custom/necromancy/poison" },
 
-    { "predicate": { "custom_model_data": 2001 }, "model": "item/custom/bedit/selection_block" },
     { "predicate": { "custom_model_data": 2002 }, "model": "item/custom/magic/pickle_rocket" }
   ]
 }
