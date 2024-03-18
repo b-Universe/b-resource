@@ -39,8 +39,9 @@
         "custom_armor:trims/models/armor/example_leggings",
         "custom_armor:trims/models/armor/titanium_ice",
         "custom_armor:trims/models/armor/toxoclast_exosuit",
-        "custom_armor:trims/models/armor/respira",
-        "custom_armor:trims/models/armor/respira_leggings"
+        "custom_armor:trims/models/armor/custom_zombie_01",
+        "custom_armor:trims/models/armor/custom_zombie_02",
+        "custom_armor:trims/models/armor/zombie_dress"
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
